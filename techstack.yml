@@ -1,7 +1,8 @@
 repo_name: GamePad64/docker-i2p
 report_id: a71b00a0eed266769f9007770f9eefc7
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-09T15:17:23+00:00'
+timestamp: '2024-01-04T14:58:44+00:00'
 requested_by: mikalv
 provider: github
 branch: master
@@ -16,6 +17,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Virtual Machine Platforms & Containers
   image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/GamePad64/docker-i2p
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -25,6 +27,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/GamePad64/docker-i2p
   detection_source: Repo Metadata
 - name: Ubuntu
   description: The leading OS for PC, tablet, phone and cloud
@@ -34,6 +37,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Operating Systems
   image_url: https://img.stackshare.io/service/3511/cof_orange_hex.jpg
+  detection_source_url: https://github.com/GamePad64/docker-i2p/blob/master/Dockerfile
   detection_source: Dockerfile
   last_updated_by: Mikal Villa
   last_updated_on: 2014-08-14 04:25:44.000000000 Z
